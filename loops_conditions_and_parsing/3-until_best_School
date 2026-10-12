@@ -1,5 +1,5 @@
-#!/bin/bash
-# Displates Best School 10 times using until.
+#!/usr/bin/env bash
+# Display Best School ten times using until.
 count=1
 until [ "$count" -gt 10 ]
 do
